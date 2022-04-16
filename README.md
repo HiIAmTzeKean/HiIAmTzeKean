@@ -1,6 +1,6 @@
 @HiIAmTzeKean
 
-I will be studing in NTU Computer science from year 2021 to 2025. I intend to specialise in cyber secuirty.
+I will be studing in NTU Computer science from year 2021 to 2025.
 
 you can reach me with the following email: ngtzekean600@gmail.com
 
