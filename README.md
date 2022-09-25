@@ -13,7 +13,7 @@ Reading novels
 
 ## About Repo
 
-My Repo will contain some of my notes and summary of the modules I have taken in NTU. I am looking into making Youtube videos that summarize the content I have learnt. Do look forward it!  
+My Repo will contain some of my notes and summary of the modules I have taken in NTU. I am looking into making Youtube videos that summarize the content I have learnt. Do look forward to it!  
 If you are interested in learning more about me, do check my portfolio out [here](https://hiiamtzekean.github.io/TzeKean.github.io/)
 
 ## Contact
