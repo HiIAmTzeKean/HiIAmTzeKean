@@ -16,6 +16,8 @@ Reading novels
 My Repo will contain some of my notes and summary of the modules I have taken in NTU. I am looking into making Youtube videos that summarize the content I have learnt. Do look forward to it!  
 If you are interested in learning more about me, do check my portfolio out [here](https://hiiamtzekean.github.io/TzeKean.github.io/)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HiIAmTzeKean)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Contact
 Personal Email: ngtzekean600@gmail.com  
 School Email: tng042@e.ntu.edu.sg
