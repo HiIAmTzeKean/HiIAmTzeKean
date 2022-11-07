@@ -21,3 +21,4 @@ If you are interested in learning more about me, do check my portfolio out [here
 ## Contact
 Personal Email: ngtzekean600@gmail.com  
 School Email: tng042@e.ntu.edu.sg
+![](https://komarev.com/ghpvc/?username=HiIAmTzeKean)
