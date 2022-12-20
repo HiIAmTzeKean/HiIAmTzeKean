@@ -6,7 +6,7 @@ I will be studing in NTU Computer science from year 2021 to 2025. I love doing s
 
 ## Hobbies
 
-It goes without saying that coding is one of the activities I enjoy, here are some of my other hobbies.  
+It goes without saying that coding is one of the activities I enjoy. Here are some of my other hobbies.  
 Cycling  
 Running  
 Reading novels  
@@ -20,5 +20,5 @@ If you are interested in learning more about me, do check my portfolio out [here
 
 ## Contact
 Personal Email: ngtzekean600@gmail.com  
-School Email: tng042@e.ntu.edu.sg
+School Email: tng042@e.ntu.edu.sg  
 ![](https://komarev.com/ghpvc/?username=HiIAmTzeKean)
