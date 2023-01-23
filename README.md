@@ -22,4 +22,4 @@ If you are interested in learning more about me, do check my portfolio out [here
 Personal Email: ngtzekean600@gmail.com  
 School Email: tng042@e.ntu.edu.sg  
 
-[![text](https://images.credly.com/size/100x100/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png)](https://www.linkedin.com/in/myprofile)
+[![text](https://images.credly.com/size/100x100/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png)](https://www.credly.com/badges/b7978e52-2b3f-45aa-b628-832a2971817e/public_url)
