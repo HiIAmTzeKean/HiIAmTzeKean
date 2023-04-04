@@ -5,7 +5,7 @@ I will be studing in NTU Computer science from year 2021 to 2025. I will be spec
 
 ## About Repo
 My Repo will contain some of my notes and summary of the modules I have taken in NTU. I am looking into making Youtube videos that summarize the content I have learnt. Do look forward to it!  
-If you are interested in learning more about me, do check my portfolio out [here](https://hiiamtzekean.github.io/TzeKean.github.io/)
+If you are interested in learning more about me, do check my portfolio out [here](https://hiiamtzekean.github.io)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=HiIAmTzeKean&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
 
