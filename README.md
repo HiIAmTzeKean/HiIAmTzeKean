@@ -1,11 +1,12 @@
 # About Tze Kean
 
 ## Summary
-I will be studing in NTU Computer science from year 2021 to 2025. I will be specialising in AI and Machine Learning!
+I will be studing in NTU Computer science from year 2021 to 2025. My specialiation will be in AI and Machine Learning! I am looking into expanding my knowledge into the field of finance and am in the midst of taking a CFA.
 
 ## Education
 - Nanyang Technological Univeristy
 - National University Singapore (Exchange)
+- Tsinghua University (Exchange)
 - ShangHai Jiao Tong University (Exchange)
 
 ## About Repo
