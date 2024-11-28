@@ -27,7 +27,7 @@ If you are interested in learning more about me, do check my portfolio out [here
 
 ## Contact
 
-If there is something that interests you, reach out to me anything through my email!
+If there is something that interests you, reach out to me anytime through my email!
 
 Personal Email: ngtzekean@gmail.com  
 School Email: tng042@e.ntu.edu.sg
