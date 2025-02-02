@@ -22,8 +22,11 @@ I am trying to make some Youtube videos on projects that I have taken in NTU or 
 Check those out in my [channel](https://www.youtube.com/@ngtzekean).
 If you are interested in learning more about me, do check my portfolio out [here](https://hiiamtzekean.github.io)!
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=HiIAmTzeKean&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HiIAmTzeKean&layout=donut&size_weight=0.5&count_weight=0.5&theme=tokyonight)
+## Current Projects
+
+- Working at Flo Energy as a Data Analyst!
+- Some modules at school
+- Looking at forecasting energy price and risk analysis
 
 ## Contact
 
