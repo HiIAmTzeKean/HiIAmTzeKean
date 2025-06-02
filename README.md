@@ -2,13 +2,13 @@
 
 ## Summary
 
-I am studying in Nanyang Technological University (NTU) Computer science from year 2021 to 2025.
-My specialiation will be in AI and Machine Learning! I am looking into expanding my knowledge
-into the field of finance and am in the midst of taking a CFA.
+I have graduated from Nanyang Technological University (NTU) Computer science in 2025.
+My specialiation is in AI! I am looking into expanding my knowledge
+into the field of finance and will be taking some finace modules.
 
 ## Education
 
-- NTU (Bachelor with honours)
+- NTU (Bachelor with highest distinction, honours)
 - National University Singapore (Semester) 2023
 - Tsinghua University (Virtual) 2023
 - Shanghai Jiao Tong University (Semester) 2024
@@ -24,9 +24,9 @@ If you are interested in learning more about me, do check my portfolio out [here
 
 ## Current Projects
 
-- Working at Flo Energy as a Data Analyst!
-- Some modules at school
+- Working at Flo Energy as a Data Scientist!
 - Looking at forecasting energy price and risk analysis
+- Some Generative AI projects
 
 ## Contact
 
